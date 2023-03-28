@@ -4,11 +4,15 @@
 - I’m looking to collaborate on this project.
 
 - How to reach me?
-Discord: 𝔽𝕣𝕒𝕟𝕔𝕚𝕤#0490
+Discord: Frank.#0490
 
 <!---
 MaxiFrancis/MaxiFrancis is a ✨ special ✨ repository because its built on a friendly interaction.
 --->
 
 This is an Discord.js v12 Bot, created with my own sistem of commands. It was fully functional and used after v14 update, where comes some major updates.
-This is my personal work.
+Now my bot has a updated code.
+
+This bot includes an slash commands sistem with some basic commands for my server needs.
+
+This is my own work.
